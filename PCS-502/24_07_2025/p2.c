@@ -13,6 +13,8 @@ void printer(int *a,int n)
 
 int main()
 {
+	printf("Satyam Singh Rawat(C) - 61\n");
+	
 	pid_t child_pid;
 	
 	int n;
